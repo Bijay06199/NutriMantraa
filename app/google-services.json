@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "637435703864",
+    "firebase_url": "https://nutrimantra-cd0aa.firebaseio.com",
+    "project_id": "nutrimantra-cd0aa",
+    "storage_bucket": "nutrimantra-cd0aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637435703864:android:09482f9e4451d4a13f6ccd",
+        "android_client_info": {
+          "package_name": "com.example.nutrimantraa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637435703864-65h9298u7l84jl34cqp406qrblbbprsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiZzA2MEvBgwRKENngu4hZ0WxLX7hRRaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637435703864-65h9298u7l84jl34cqp406qrblbbprsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
